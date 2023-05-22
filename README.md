@@ -12,7 +12,10 @@ Extrusion lengths are: 10x350mm for top and bottom frame +2 for the bed and 4x40
 This gives you a build-volume of 230x230x300<br />
 <br />
 
-uses 2x 350mm MGN9C rails on Y, and one 300mm MGN9C on X<br />
+<p>Uses 2x 350mm MGN9C rails on Y, and one 300mm MGN9C on X</p>
+<p>4x 8x400mm Rods for the Z axis</p>
+<br/>
+<p>Supports the stock Ender 3 electronics and can use Marlin with a custom firmware.</p>
 
 <br />
 Please note that this has not been built yet, let me know if you want to build it!</p>
