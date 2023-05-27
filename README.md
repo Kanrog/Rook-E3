@@ -50,5 +50,7 @@ This is set up to use the <a href="https://www.printables.com/model/381953-rooke
 
 <p><br />
 <em><strong>Please note that this has not been built yet, let me know if you want to build it!</strong></em></p>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F3LNZ6A)
+
 <p><img alt="" src="https://github.com/Kanrog/Rook-E3/blob/main/Images/Rook-E3-Family.PNG?raw=true" /></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F3LNZ6A)
